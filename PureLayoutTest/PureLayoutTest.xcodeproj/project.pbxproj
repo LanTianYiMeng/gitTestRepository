@@ -18,7 +18,6 @@
 		B75AEDB61C0826AB00ABCB45 /* ALView+PureLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = B75AEDB01C0826AB00ABCB45 /* ALView+PureLayout.m */; };
 		B75AEDB71C0826AB00ABCB45 /* NSArray+PureLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = B75AEDB21C0826AB00ABCB45 /* NSArray+PureLayout.m */; };
 		B75AEDB81C0826AB00ABCB45 /* NSLayoutConstraint+PureLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = B75AEDB41C0826AB00ABCB45 /* NSLayoutConstraint+PureLayout.m */; };
-		B78B2ED01C082A0C0095BE9F /* 超级自由行-首页.png in Resources */ = {isa = PBXBuildFile; fileRef = B78B2ECF1C082A0C0095BE9F /* 超级自由行-首页.png */; };
 		B7C0A22C1C08456D00764F06 /* Test0ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B7C0A22B1C08456D00764F06 /* Test0ViewController.m */; };
 		B7C0A22F1C08510A00764F06 /* ColorViewsModel.m in Sources */ = {isa = PBXBuildFile; fileRef = B7C0A22E1C08510A00764F06 /* ColorViewsModel.m */; };
 		B7C0A2321C08563300764F06 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B7C0A2311C08563300764F06 /* TestViewController.m */; };
@@ -71,7 +70,6 @@
 		B75AEDB31C0826AB00ABCB45 /* NSLayoutConstraint+PureLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSLayoutConstraint+PureLayout.h"; sourceTree = "<group>"; };
 		B75AEDB41C0826AB00ABCB45 /* NSLayoutConstraint+PureLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSLayoutConstraint+PureLayout.m"; sourceTree = "<group>"; };
 		B75AEDB51C0826AB00ABCB45 /* PureLayout+Internal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "PureLayout+Internal.h"; sourceTree = "<group>"; };
-		B78B2ECF1C082A0C0095BE9F /* 超级自由行-首页.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "超级自由行-首页.png"; sourceTree = "<group>"; };
 		B7C0A22A1C08456D00764F06 /* Test0ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test0ViewController.h; sourceTree = "<group>"; };
 		B7C0A22B1C08456D00764F06 /* Test0ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test0ViewController.m; sourceTree = "<group>"; };
 		B7C0A22D1C08510A00764F06 /* ColorViewsModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorViewsModel.h; sourceTree = "<group>"; };
@@ -139,7 +137,6 @@
 			children = (
 				B7C0A22D1C08510A00764F06 /* ColorViewsModel.h */,
 				B7C0A22E1C08510A00764F06 /* ColorViewsModel.m */,
-				B78B2ECF1C082A0C0095BE9F /* 超级自由行-首页.png */,
 				B75AED7C1C08262400ABCB45 /* AppDelegate.h */,
 				B75AED7D1C08262400ABCB45 /* AppDelegate.m */,
 				B75AED7F1C08262400ABCB45 /* ViewController.h */,
@@ -312,7 +309,6 @@
 			files = (
 				B75AED891C08262400ABCB45 /* LaunchScreen.storyboard in Resources */,
 				B75AED861C08262400ABCB45 /* Assets.xcassets in Resources */,
-				B78B2ED01C082A0C0095BE9F /* 超级自由行-首页.png in Resources */,
 				B75AED841C08262400ABCB45 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
